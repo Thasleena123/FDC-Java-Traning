@@ -21,5 +21,10 @@ public class Main {
         //By Thasleena
         System.out.printf("Created a new Change");
         System.out.printf("Made Some Changes");
+
+        //Confict code
+        int a = 10;
+        int b = 20;
+        System.out.printf("sum = " + (a+b));
     }
 }
