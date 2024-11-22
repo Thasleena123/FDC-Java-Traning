@@ -2,10 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        int demo=5;
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome to fdc");
-
+        System.out.println(demo);
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
@@ -13,13 +14,17 @@ public class Main {
         }
         System.out.printf("Cloned");
         System.out.printf("Cloned 2");
-        System.out.printf("Cloned 3");
+        System.out.printf("Cloned 35676455fxcfcygtfcgfcdxt");
         //By Jerry
         System.out.printf("Created a branch Jerry");
         System.out.printf("Made Some Changes");
 
         //By Thasleena
         System.out.printf("Created a new Change");
-        System.out.printf("Made Some Changes");
+
+        int a=9;
+        int b=9;
+        int c=9;
+
     }
 }
