@@ -22,9 +22,9 @@ public class Main {
         System.out.printf("Created a new Change");
         System.out.printf("Made Some Changes");
 
-        //Confict code
-        int a = 10;
-        int b = 20;
-        System.out.printf("sum = " + (a+b));
+        //confliict 2
+
+        int sum = 10;
+        System.out.printf(String.valueOf(sum));
     }
 }
